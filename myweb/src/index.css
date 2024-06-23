@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .home-button{
+        @apply hover:bg-blue-800 text-white font-semibold hover:text-white py-2 px-4 w-[10rem] h-[8rem];
+    }
+};
