@@ -1,3 +1,5 @@
+# Local Service Payment Application
+
 Setting up:
 
 For server environment:
