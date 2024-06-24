@@ -1,6 +1,7 @@
 # Local Service Payment Application
 
 Overview
+
 Local Service Payment Application is a project for our major assignment in the Introduction to Software Engineering (IT3180) module at HUST. It is an application provided to local officials and residents in the area to facilitate the management and collection of fees within the local community.
 
 Setting up:
